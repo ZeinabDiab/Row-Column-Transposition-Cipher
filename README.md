@@ -86,6 +86,7 @@ Decrypt button
 Output area
 Error handling for invalid keys
 Example Key Format
+```text
 3 1 4 2
 
 The key must contain every integer from 1 to n exactly once.
