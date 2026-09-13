@@ -42,7 +42,7 @@ The Row-Column Transposition Cipher rearranges the characters of a message accor
 
 ### Example Key
 
-```text
+
 3 1 4 2The key determines the order in which columns are read during encryption.
 
 Encryption Process
